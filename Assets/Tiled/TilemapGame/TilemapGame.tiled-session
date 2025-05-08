@@ -3,19 +3,37 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "TinyDungeon_Tilemap.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "TinyDungeon_Tilemap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -148,
+                "y": 174
+            }
+        },
+        "TinyDungeon_Tileset.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        }
     },
     "last.imagePath": "C:/Users/49221612/Documents/comp1151prac-tilemapgame-zOmnii/Assets/Tiled/TilemapGame",
     "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "TinyDungeon_Tileset.tsx",
+        "TinyDungeon_Tilemap.tmx"
     ],
     "project": "TilemapGame.tiled-project",
     "recentFiles": [
+        "TinyDungeon_Tileset.tsx",
+        "TinyDungeon_Tilemap.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
